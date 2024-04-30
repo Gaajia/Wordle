@@ -15,8 +15,10 @@ As you guess, I'll tell you if any letters are correct and if they're in the rig
 If you get a letter right and in the right position, I'll show it as correct.
 If a letter is right but in the wrong spot, I'll let you know.
 If a letter isn't in the word at all, I'll mark it as incorrect.
+all of which would append the letter of the word into the grid.
 
-Each time you guess, we'll move to the next line to keep track.
+Each time you guess, we'll move to the next line to keep track. and clear the next field. iterating through the game. 
 
-If you get all the letters in the right order, you win!
+If you get all the letters in the right order, you win!. the game would stop functioning once the alert appears. like wise if you fail to get the answer. 
 But if you run out of tries and haven't guessed it, I'll tell you the word and encourage you to try again tomorrow.
+
